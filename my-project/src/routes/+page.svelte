@@ -1,5 +1,4 @@
 <script>
-  // Se necessário, adicione lógica JavaScript aqui
 </script>
 
 <main class="text-white font-sans antialiased">
